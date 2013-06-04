@@ -1,0 +1,12 @@
+Sports Gala Inviter:
+Description:
+An inviter application that make the user send invitations of a sport event to their friends, fellows, colleagues & family members. A useful application by which you can send an invitation card to lot of people with just single click.
+	
+Features:
+•	The series of high quality Sport’s Gala invitation cards.
+•	Categorized cards to easily classify your party invitation.
+•	A User Form to fill out the information about party event.
+•	One-Click sending and sharing functionality.
+•	Fully Different User Interface Designed keeping in focus point of view of Niche (Target) Market.
+•	Live Tiles(Locally & Remotely)
+•	Fully Unique Branding (Unique Logo Designing & Graphics Designing)
